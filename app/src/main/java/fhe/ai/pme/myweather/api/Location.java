@@ -4,4 +4,6 @@ public class Location {
     Location() {
 
     }
+
+    private long id;
 }
